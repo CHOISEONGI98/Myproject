@@ -1,2 +1,5 @@
 print("HI")
 print("NICE TO MEET YOU")
+print("HELLO")
+print("HEY")
+print("GOOD TO SEE YOU")
